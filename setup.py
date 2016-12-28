@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
   name = 'qreg',
-  packages = ['qreg'], 
+  packages = ['qreg'],
   version = '0.1',
   description = 'A quantile regression library to fit an arbitrary function',
   author = 'Srinivasan Iyengar',
